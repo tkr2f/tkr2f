@@ -21,11 +21,11 @@
 | SHIMANO | 26 Ocea Jigger ∞ B65-3 | ★★★☆☆ |
 | SHIMANO | 26 Ocea Jigger ∞ B65-4 | ★★★★★ |
 
-| Maker | Reel | Line | Waste Level |
-|---|---|---|---|
-| SHIMANO | 25 Ocea Conquest CT 300HG Right | Ocea Jigger MX4 PE #2 35lb | ★★★★★ |
-| SHIMANO | 19 Ocea Jigger F Custom 1500HG Right | Ocea Jigger MX4 PE #2 35lb | ★★★☆☆ |
-| SHIMANO | 19 Ocea Jigger F Custom 2000NRHG Right | Ocea Jigger MX4 PE #3 52lb | ★★★★☆ |
+| Maker | Reel | Waste Level |
+|---|---|---|
+| SHIMANO | 25 Ocea Conquest CT 300HG Right | ★★★★★ |
+| SHIMANO | 19 Ocea Jigger F Custom 1500HG Right | ★★★☆☆ |
+| SHIMANO | 19 Ocea Jigger F Custom 2000NRHG Right | ★★★★☆ |
 
 ### Motorcycles
 
